@@ -14,4 +14,3 @@ function squareDigits(num){
   return parseInt(empty.join(""))
 }
 
-Test.assertEquals(squareDigits(9119), 811181);
